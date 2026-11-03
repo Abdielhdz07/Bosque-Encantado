@@ -80,21 +80,18 @@ El videojuego incorpora las siguientes características:
 
 ## Organización del proyecto
 
-El repositorio contiene las siguientes carpetas principales:
+Para mantener organizado el desarrollo de Bosque Encantado, los archivos se distribuyeron en diferentes carpetas según su función.
 
-```text
-Bosque-Encantado/
-├── Assets/
-│   ├── Scripts/
-│   ├── Bosque_Level01.unity
-│   ├── MainMenu.unity
-│   └── OptionsMenu.unity
-├── Packages/
-├── ProjectSettings/
-├── Scripts/
-├── .gitignore
-└── README.md
-```
+| Carpeta | Descripción |
+|---|---|
+| **Assets** | Contiene los archivos y recursos utilizados para desarrollar el videojuego en Unity. |
+| **Scripts** | Almacena los códigos programados en C# para controlar los movimientos, enemigos, vida, puntuación y menús. |
+| **Packages** | Contiene la configuración de los paquetes y herramientas utilizados por Unity. |
+| **ProjectSettings** | Guarda las configuraciones generales del proyecto. |
+
+Dentro de **Assets** también se encuentran las escenas principales del videojuego, como el bosque, el menú principal y el menú de opciones.
+
+Esta organización permite identificar los componentes del proyecto y facilita su mantenimiento, modificación y desarrollo de nuevas funcionalidades.
 
 **Nota:** El repositorio contiene una versión parcial de los recursos del proyecto Unity. Algunos archivos gráficos y otros recursos utilizados por el prototipo todavía no están incluidos.
 
