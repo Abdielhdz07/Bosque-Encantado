@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b360c27f888344c4989607bda55202d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - paso: {fileID: 8300000, guid: 6a6a9a8ef1831454b88248be11f43e49, type: 3}
+  - salto: {fileID: 8300000, guid: 6702ac3b291d2429f9eb31f429231207, type: 3}
+  - dano: {fileID: 8300000, guid: ecc6d6279d46a4b8c81f4db591cf7196, type: 3}
+  - muerte: {fileID: 8300000, guid: 981e844e28f134283b29a4736572d71f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
